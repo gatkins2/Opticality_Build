@@ -17,3 +17,7 @@ KNOWN BUGS:
 When entering a black hole from a distance greater than the size of one room, the camera will sometimes jump back and forth between rooms while following the player
 
 Occasionally, if the player moves near the border of a room, the camera will not properly follow the player until he moves again
+
+Cannot move directly into a corner
+
+Aiming the pointer out of a room at a steep angle will not send the player into the desired room
